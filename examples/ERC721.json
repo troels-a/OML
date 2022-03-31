@@ -1,0 +1,9 @@
+{
+  "name": "My album",
+  "description": "Yet another music NFT.",
+  "image": "https://link.to/artwork.png",
+  "oml": {
+    "stream": ["non-commercial", "commercial"],
+    "download": ["non-commercial"],
+  }
+}
