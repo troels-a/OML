@@ -1,2 +1,2 @@
-# OML
-Open Music License
+# Open Music License (OML)
+OML is a computer readable license format for open music releases to declare terms of usage. An open music release functions much like open source code in the sense that it is freely available yet still subject to licenses. Open music releases should include an `oml` namespace in their accompanying metadata if they want to declare programmatically how the media is allowed to be used in various context.
