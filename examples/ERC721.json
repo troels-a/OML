@@ -3,7 +3,10 @@
   "description": "Yet another music NFT.",
   "image": "https://link.to/artwork.png",
   "oml": {
-    "stream": ["non-commercial", "commercial"],
-    "download": ["non-commercial"],
+    "link": "https://link.to/artist",
+    "contexts": {
+      "stream": ["non-commercial", "commercial"],
+      "download": ["non-commercial"],
+    }
   }
 }
